@@ -27,3 +27,14 @@ En wat een uitzicht!
 
 ![topoftherock2](http://photography.matsimitsu.com/track/uploads/4fce76f43f61b01330000002/4fce77e23f61b01330000005/large_IMG_0807.JPG)
 
+Na 30rock zijn we naar Grand Central Station gegaan om vervolgens richting het appartement te vertrekken.
+
+S'avonds was het tijd voor een fimpje, Men in Black 3 om precies te zijn... in 3D.
+
+Met welgeteld 4 personen totaal in de bioscoop was het prima te doen :D
+
+![film](http://photography.matsimitsu.com/track/uploads/4fce76f43f61b01330000002/4fcee04f3f61b01349000002/large_photo-2.JPG)
+
+Het is inmiddels 1 uur s'nachts. Tijd om naar bed te gaan!
+
+![uitzichtbijnacht](http://photography.matsimitsu.com/track/uploads/4fce76f43f61b01330000002/4fcee0343f61b01349000001/large_20120606-_DSC0032.jpg)
