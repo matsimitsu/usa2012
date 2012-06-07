@@ -1,12 +1,14 @@
 ---
 title: On the road - Dag 1
-date: 2012/06/06
-location: Pennsylvania, USA
+date: 2012/06/07
+location: Pennsylvania/Ohio, USA
 ---
 
 Wakker worden en de koffers inpakken, de eerste dag van vele dat we dit doen. Rond 9 uur belde DJ om te zeggen dat hij beneden stond met de auto. Geheel in New Yorkse stijl met getoeter en middelvingers schieten we over de Turnpike naar Newark Liberty International Airport, afdeling huurauto's.
 
 Na het invullen van wat papierwerk konden we naar de parkeergarage lopen om de auto op te halen. En we mogen niet klagen! Een gloednieuwe Nissan Pathfinder met welgeteld 123,8 Miles op de teller staat ons op te wachten. Inclusief "new car smell" en een volle tank.
+
+![suv](http://photography.matsimitsu.com/track/uploads/4fd134433f61b01345000004/4fd135853f61b01345000006/large_IMG_0852.JPG)
 
 Het is altijd even wennen, die amerikaanse auto's. Voor Nederlandse begrippen rijden ze als een zak hooi. Remmen intrappen heeft als enige gevolg dat je remlicht aangaat, maar stoppen ho maar. Het stuur zit er ook in voor de sier, er aan draaien heeft weinig effect.
 
