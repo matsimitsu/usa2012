@@ -9,3 +9,5 @@ Vandaag niet veel foto's want we zijn wezen raften!
 ![rocky](http://photography.matsimitsu.com/track/uploads/4fd7fa743f61b01330000016/4fd962313f61b0133000001a/large_20120611-_DSC0393.jpg)
 
 ![rocky](http://photography.matsimitsu.com/track/uploads/4fd7fa743f61b01330000016/4fd962333f61b0133000001b/large_20120612-IMG_0896.jpg)
+
+2 uur lang op de Colorado River. Helaas waren we vergeten zonnebrand op te doen, waardoor onze armen enorm verbrand zijn :(
