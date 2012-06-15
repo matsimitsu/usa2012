@@ -10,6 +10,8 @@ Aan het begin ging dat prima maar op een gegeven moment kwamen we stukken tegen 
 
 Gelukkig zijn we heelhuids over het pad naar de grote weg gekomen. Mede dankzij de stuurkunsten van Maurits :)
 
+<iframe src="http://player.vimeo.com/video/44019842" width="920" height="560" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+
 Het resultaat kun je hieronder zien.
 
 ![dirty](http://photography.matsimitsu.com/track/uploads/4fd96a273f61b01349000014/4fd973e03f61b01330000038/large_20120613-IMG_0901.jpg)
