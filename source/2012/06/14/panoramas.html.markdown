@@ -32,4 +32,8 @@ En nog 3 panorama's van Rocky Mountains park
 "><img src="http://photography.matsimitsu.com/track/uploads/4fdacad23f61b01330000063/4fdad0163f61b0134900003c/large_panorama6
 "></a>
 
+En nog een van Death valley
+
+<a href="http://photography.matsimitsu.com/track/uploads/4fdacad23f61b01330000063/4fdd4f4d3f61b01330000067/panorama7.png"><img src="http://photography.matsimitsu.com/track/uploads/4fdacad23f61b01330000063/4fdd4f4d3f61b01330000067/large_panorama7.png
+"></a>
 
