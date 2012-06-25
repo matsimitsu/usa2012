@@ -1,5 +1,5 @@
 <object width="920" height="404"><param name="movie" value="http://www.tripline.net/api/tripviewer.swf" /><param name="AllowScriptAccess" VALUE="always" /><param name="bgcolor" value="#111111" /><param name="allowFullScreen" value="true" /><param name="flashVars" value="tripId=44150716131110058662BAA90034DCC8&tripDataUrl=http://www.tripline.net/api/v1/kml/44150716131110058662BAA90034DCC8?version=.2&mapsApiKey=ABQIAAAAA9rk3PBVYmwBFaK8U6L2BBSGk6n9_7P4Hc_MSCrbXGvqZu06axRNzkfL-lfkb7tx0GF_c1LVYHgGQg&embed=1" /><embed src="http://www.tripline.net/api/tripviewer.swf" type="application/x-shockwave-flash" width="920" height="404" allowFullScreen="true" AllowScriptAccess="always" bgcolor="#111111" flashVars="tripId=44150716131110058662BAA90034DCC8&tripDataUrl=http://www.tripline.net/api/v1/kml/44150716131110058662BAA90034DCC8?version=.2&mapsApiKey=ABQIAAAAA9rk3PBVYmwBFaK8U6L2BBSGk6n9_7P4Hc_MSCrbXGvqZu06axRNzkfL-lfkb7tx0GF_c1LVYHgGQg&embed=1&onSite=1"></embed></object>
 
 .blog
-  - data.blog.articles.each do |article|
+  - data.blog.articles.reverse.each do |article|
     = partial(:article, :locals => {:article => article})
